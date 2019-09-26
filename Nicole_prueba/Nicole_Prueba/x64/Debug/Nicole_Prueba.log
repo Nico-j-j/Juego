@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\nicole_prueba\circulo.h(39): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\nicole_prueba\circulo.h(40): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\nicole_prueba\juego.h(34): warning C4244: 'argumento': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\nicole_prueba\myform.cpp(6): warning C4551: la llamada a la función no tiene lista de argumentos
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\nicole_prueba\myform.h(218): warning C4700: se utilizó la variable local 'pY' sin inicializar
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\nicole_prueba\myform.h(218): warning C4700: se utilizó la variable local 'pX' sin inicializar
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Nicole_Prueba.vcxproj -> C:\Users\USER\Documents\TRABAJOS DE LA U\ALGORITMOS\Nicole_Prueba\x64\Debug\Nicole_Prueba.exe

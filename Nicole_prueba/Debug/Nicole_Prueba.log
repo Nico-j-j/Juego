@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\circulo.h(40): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\vecfigura.h(60): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\vecfigura.h(67): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\vecfigura.h(73): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\vecfigura.h(77): warning C4018: '<': no coinciden signed/unsigned
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\myform.h(120): error C3867: 'CLinea::getX': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+c:\users\user\documents\trabajos de la u\algoritmos\nicole_prueba\myform.cpp(6): warning C4551: la llamada a la función no tiene lista de argumentos

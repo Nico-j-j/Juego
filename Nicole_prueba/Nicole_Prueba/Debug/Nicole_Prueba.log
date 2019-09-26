@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+d:\users\usuario\documents\cursos\algoritmos\nicole_prueba\nicole_prueba\circulo.h(40): warning C4244: '+=': conversión de 'double' a 'int'; posible pérdida de datos
+d:\users\usuario\documents\cursos\algoritmos\nicole_prueba\nicole_prueba\vecfigura.h(60): warning C4018: '<': no coinciden signed/unsigned
+d:\users\usuario\documents\cursos\algoritmos\nicole_prueba\nicole_prueba\vecfigura.h(67): warning C4018: '<': no coinciden signed/unsigned
+d:\users\usuario\documents\cursos\algoritmos\nicole_prueba\nicole_prueba\vecfigura.h(73): warning C4018: '<': no coinciden signed/unsigned
+d:\users\usuario\documents\cursos\algoritmos\nicole_prueba\nicole_prueba\vecfigura.h(77): warning C4018: '<': no coinciden signed/unsigned
+d:\users\usuario\documents\cursos\algoritmos\nicole_prueba\nicole_prueba\myform.cpp(6): warning C4551: la llamada a la función no tiene lista de argumentos
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Nicole_Prueba.vcxproj -> D:\Users\USUARIO\Documents\Cursos\Algoritmos\Nicole_Prueba\Debug\Nicole_Prueba.exe
